@@ -1,0 +1,5 @@
+.DS_Store
+front/node_modules/
+front/output.txt
+front/src/config/jobs.json
+front/src/config/cookie.txt
